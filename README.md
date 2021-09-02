@@ -10,7 +10,7 @@ Hunt INSTA Acc From IRAQ + KSA
 
 • pkg install python
 
-• git clone https://github.com/aa0aaa/CharonHunterV4.git
+• git clone https://github.com/aa0aaa/CharonHunterV4
 
 • pip install requests
 

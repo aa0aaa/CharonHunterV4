@@ -10,6 +10,8 @@ Hunt INSTA Acc From IRAQ + KSA
 
 • pkg install python
 
+• git clone https://github.com/aa0aaa/CharonHunterV4.git
+
 • pip install requests
 
 • pip install colorama
@@ -17,3 +19,7 @@ Hunt INSTA Acc From IRAQ + KSA
 • pip install pyfiglet
 
 • pip install colored
+
+• cd CharonHunterV4
+
+• python CharonHunterV4-1-0.exe
